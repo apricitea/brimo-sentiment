@@ -1,0 +1,499 @@
+review_id,username,datetime,rating,review,analysis,Topic,Sentiment,Explanation,Topics
+537e91c1-c3fe-40f5-a57d-c174642ae371,Dandi Satiyawan,2024-07-16 13:51:59,5,"Dengan adanya BRImo BRI, cukup mempermudah transaksi antar sesama","{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review mentions that with BRImo BRI, transactions are made easier, indicating a positive sentiment towards the app's usability.""
+}",User Experience,Positive,"The review mentions that with BRImo BRI, transactions are made easier, indicating a positive sentiment towards the app's usability.",
+943c1c2b-4443-490d-a76a-07f8e94153bb,Yuni Astriani,2024-07-16 13:47:56,5,Aplikasi nya bagus,"{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review uses the phrase 'Aplikasi nya bagus' which translates to 'The application is good', indicating a positive sentiment towards the user experience of the BRImo mobile banking app.""
+}",User Experience,Positive,"The review uses the phrase 'Aplikasi nya bagus' which translates to 'The application is good', indicating a positive sentiment towards the user experience of the BRImo mobile banking app.",
+515d25f9-d15a-4cf5-80d7-737fc44275f9,Risma Mariyam,2024-07-16 13:46:30,5,bagus sangat membantu,"{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review uses the phrase 'bagus sangat membantu' which translates to 'very helpful' or 'excellent', indicating that the reviewer had a positive experience with the BRImo mobile banking app.""
+}",User Experience,Positive,"The review uses the phrase 'bagus sangat membantu' which translates to 'very helpful' or 'excellent', indicating that the reviewer had a positive experience with the BRImo mobile banking app.",
+733a4ad8-019f-4251-925f-4a405d826d50,Rudi Hartono,2024-07-16 13:46:02,5,Gampang digunakan dan sangat membantu,"{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The reviewer found the app easy to use and very helpful, indicating a positive sentiment towards their experience with BRImo.""
+}",User Experience,Positive,"The reviewer found the app easy to use and very helpful, indicating a positive sentiment towards their experience with BRImo.",
+92ae4cb9-ec87-4d03-ad7d-605f986970f8,Bayu gifcube,2024-07-16 13:32:38,3,"Kenapa qris saya sering bermasalah, walaupun jaringan bagus","{
+""Topic"": ""Network or Connection"",
+""Sentiment"": ""Negative"",
+""Explanation"": ""The reviewer mentions that their QRIS often experiences problems, despite having a good network connection. This suggests that there may be issues with the app's connectivity or server-side processing.""
+}",Network or Connection,Negative,"The reviewer mentions that their QRIS often experiences problems, despite having a good network connection. This suggests that there may be issues with the app's connectivity or server-side processing.",
+d83411ce-ec1b-468b-8259-df1bdfa6bed9,illu illu,2024-07-16 13:32:33,4,Mudah dan terpercaya,"{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The reviewer uses the Indonesian phrases 'Mudah dan terpercaya' which translates to 'Easy and trustworthy', indicating a positive sentiment towards their experience using the BRImo mobile banking app.""
+}",User Experience,Positive,"The reviewer uses the Indonesian phrases 'Mudah dan terpercaya' which translates to 'Easy and trustworthy', indicating a positive sentiment towards their experience using the BRImo mobile banking app.",
+c007d51f-02ca-4964-893e-4d4be044b582,Ahmad Mutaqin,2024-07-16 13:30:25,5,"BRImo keren, proses cepat.","{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review mentions that BRImo is 'keren' which translates to 'cool' or 'awesome', indicating a positive user experience with the app's process being fast.""
+}",User Experience,Positive,"The review mentions that BRImo is 'keren' which translates to 'cool' or 'awesome', indicating a positive user experience with the app's process being fast.",
+967c15c8-5be2-4dc1-bfb1-c9aae8175440,Nurul Amalia,2024-07-16 13:26:33,5,"Memudahkan untuk membayar transaksi tanpa harus ke ATM ,, sangat puas menggunakan brimo inii","{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review mentions that BRImo makes it easy to pay transactions without having to go to an ATM, indicating a positive user experience.""
+}",User Experience,Positive,"The review mentions that BRImo makes it easy to pay transactions without having to go to an ATM, indicating a positive user experience.",
+57f530d4-2d0c-4c86-9970-a24abcc48138,Gareng Ponk,2024-07-16 13:19:51,5,Mudah cepat recomended pokoknya,"{
+""Topic"": ""Overall"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review is brief and does not mention any specific issues. The use of phrases like 'Mudah cepat' (meaning 'easy fast') and 'recomended pokoknya' (meaning 'recommended, basically') indicates a positive sentiment towards the app.""
+}",Overall,Positive,"The review is brief and does not mention any specific issues. The use of phrases like 'Mudah cepat' (meaning 'easy fast') and 'recomended pokoknya' (meaning 'recommended, basically') indicates a positive sentiment towards the app.",
+7f76c913-ac26-49e6-a10c-7b506dba69fb,Umar Thea,2024-07-16 13:18:44,5,Jdi mudah segala y.... Mksih brimo,"{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review expresses ease of use with the phrase 'Jdi mudah segala y' which suggests a positive sentiment towards the user experience.""
+}",User Experience,Positive,The review expresses ease of use with the phrase 'Jdi mudah segala y' which suggests a positive sentiment towards the user experience.,
+da9d356d-2142-48c2-af24-90832351fe13,Shintia Arti mega purwanti,2024-07-16 13:18:14,2,"Maaf kenapa brimo saya tiba tiba tidak bisa digunakan,padahal kemarin masih bisa tidak bisa dibuka sama sekali","{
+  ""Topic"": ""Account/Login Issues"",
+  ""Sentiment"": ""Negative"",
+  ""Explanation"": ""The reviewer mentions that their BRImo app suddenly stopped working and couldn't be opened at all, indicating a login or account issue.""
+}",Account/Login Issues,Negative,"The reviewer mentions that their BRImo app suddenly stopped working and couldn't be opened at all, indicating a login or account issue.",
+6dfb94cb-84e7-4d2e-9910-7a0f38aa82ab,Parsaulian Marbun,2024-07-16 13:16:05,5,Terpercaya,"{
+""Topic"": ""Terpercaya"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The reviewer uses the Indonesian word 'Terpercaya' which means trustworthy or reliable, indicating a positive sentiment towards the app.""
+}",Terpercaya,Positive,"The reviewer uses the Indonesian word 'Terpercaya' which means trustworthy or reliable, indicating a positive sentiment towards the app.",
+63f3883a-1cc7-4a7c-b5fe-1b4b94c1fd9b,Sugiyanto Wae,2024-07-16 13:14:14,5,Sangat bagus,"{
+""Topic"": ""Overall"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The reviewer uses the phrase 'Sangat bagus' which is Indonesian for 'Very good', indicating a positive sentiment towards the app.""
+}",Overall,Positive,"The reviewer uses the phrase 'Sangat bagus' which is Indonesian for 'Very good', indicating a positive sentiment towards the app.",
+4762661a-45d9-4187-9613-2eeda2f338b9,Topik Rochman,2024-07-16 13:09:28,5,mudah dan praktis,"{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review uses the Indonesian phrases 'mudah' and 'praktis', which translate to 'easy' and 'convenient', indicating that the user found the app easy to use and practical.""
+}",User Experience,Positive,"The review uses the Indonesian phrases 'mudah' and 'praktis', which translate to 'easy' and 'convenient', indicating that the user found the app easy to use and practical.",
+49581522-3e8b-4e7e-aa2a-88edce40eddb,Erik Candra budiono,2024-07-16 13:07:50,5,Nice,"{
+""Topic"": ""Overall"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review is brief and only contains one word 'Nice', which suggests a positive sentiment towards the app.""
+}",Overall,Positive,"The review is brief and only contains one word 'Nice', which suggests a positive sentiment towards the app.",
+812fe259-5978-408e-898b-0b326efc79b8,DarTa,2024-07-16 13:06:50,5,Bagus aplikasinya,"{
+""Topic"": ""Overall"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review only contains a single phrase 'Bagus aplikasinya', which translates to 'Good app' or 'Excellent app', indicating a positive overall sentiment towards the BRImo mobile banking app.""
+}",Overall,Positive,"The review only contains a single phrase 'Bagus aplikasinya', which translates to 'Good app' or 'Excellent app', indicating a positive overall sentiment towards the BRImo mobile banking app.",
+617a287d-2bb4-4154-a32a-ae328f8cb65f,Pramono Pramono,2024-07-16 13:03:15,5,"Sangat membantu sekali,trm ksh","{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The reviewer expresses that the app is very helpful, indicating a positive sentiment towards the user experience of the BRImo mobile banking app.""
+}",User Experience,Positive,"The reviewer expresses that the app is very helpful, indicating a positive sentiment towards the user experience of the BRImo mobile banking app.",
+da911408-798f-4df1-84d1-31d5faf59745,Rizal Bagai,2024-07-16 13:02:21,5,👍,"{
+""Topic"": ""Overall"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The reviewer's single 👍 emoji suggests a positive sentiment towards the app, indicating overall satisfaction with their experience.""
+}",Overall,Positive,"The reviewer's single 👍 emoji suggests a positive sentiment towards the app, indicating overall satisfaction with their experience.",
+3d206bb8-3514-4aaa-bd1e-51ce7515797f,Suryo Gunanto,2024-07-16 12:56:53,5,"Sangat bermanfaat bagi semua nasabah BRI,pengoperasional yang mudah n cepat","{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The reviewer finds the app easy and fast to use, indicating a positive user experience.""
+}",User Experience,Positive,"The reviewer finds the app easy and fast to use, indicating a positive user experience.",
+1ad13cb2-8355-4c79-b366-5b791d1590a4,lily Raisabete,2024-07-16 12:48:53,5,Sangat baik,"{
+""Topic"": ""Overall"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review text 'Sangat baik' translates to 'Very good', indicating a positive sentiment towards the BRImo mobile banking app.""
+}",Overall,Positive,"The review text 'Sangat baik' translates to 'Very good', indicating a positive sentiment towards the BRImo mobile banking app.",
+6b150edb-9569-446f-9487-580b4e4e9e6b,Agus Roin,2024-07-16 12:46:58,5,"Sangat membantu dan rekomended,,saran si harus ada notif pemasukan","{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The reviewer found the app helpful and recommended it, suggesting that it has a positive impact on their user experience.""
+}",User Experience,Positive,"The reviewer found the app helpful and recommended it, suggesting that it has a positive impact on their user experience.",
+2e1ceba6-c791-452e-a76c-294d7fd63410,Roymareparuru,2024-07-16 12:44:34,5,The best,"{
+""Topic"": ""Overall"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review is very short and straightforward, stating that the app is 'the best'. This indicates a strong positive sentiment towards the overall experience of using the BRImo mobile banking app.""
+}",Overall,Positive,"The review is very short and straightforward, stating that the app is 'the best'. This indicates a strong positive sentiment towards the overall experience of using the BRImo mobile banking app.",
+67ee7496-2bb7-4528-9d22-27ec08ea95b5,Anto Vivo,2024-07-16 12:43:50,5,Sangat puas,"{
+""Topic"": ""Overall"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review only contains a single phrase 'Sangat puas', which is Indonesian for 'Very satisfied'. This indicates that the reviewer is pleased with their overall experience using the BRImo mobile banking app.""
+}",Overall,Positive,"The review only contains a single phrase 'Sangat puas', which is Indonesian for 'Very satisfied'. This indicates that the reviewer is pleased with their overall experience using the BRImo mobile banking app.",
+33d875bf-2b90-497b-bb62-6334d5866022,Bastiar Tito,2024-07-16 12:42:16,4,sangat membantu sekali terimakasih brimo,"{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The reviewer expresses gratitude and appreciation for the app's assistance, indicating a positive sentiment towards their experience using BRImo.""
+}",User Experience,Positive,"The reviewer expresses gratitude and appreciation for the app's assistance, indicating a positive sentiment towards their experience using BRImo.",
+f547d569-b352-433b-9d02-7655d1ee08d6,MUHAMAD ABDUL LATIP,2024-07-16 12:32:38,5,Mantap dan kalau bisa lebih ketat untuk sistem keamanan nya,"{
+""Topic"": ""Security"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The reviewer suggests that the security system of BRImo could be more stringent, indicating a positive sentiment towards the app's overall security.""
+}",Security,Positive,"The reviewer suggests that the security system of BRImo could be more stringent, indicating a positive sentiment towards the app's overall security.",
+84dc656e-2e00-482b-b712-557e45ff5ddb,Pria Tampan76,2024-07-16 12:29:16,2,"Hallo Brimo, Pin Banking sy ke Blokir, klau sy di minta No Kartu Debit / ATM, tdk ada, mhn bantuan'nya Trim ksh","{
+""Topic"": ""Account/Login Issues"",
+""Sentiment"": ""Negative"",
+""Explanation"": ""The review mentions that the reviewer's PIN banking is blocked and they are unable to access their debit/ATM card information, indicating an issue with account/login functionality.""
+}",Account/Login Issues,Negative,"The review mentions that the reviewer's PIN banking is blocked and they are unable to access their debit/ATM card information, indicating an issue with account/login functionality.",
+7fcbb898-ebe4-4241-8496-34ca5a4d835d,Al-Fatih Rizki Ramadhan,2024-07-16 12:22:25,4,Terkadang gangguan,"{
+""Topic"": ""Network or Connection"",
+""Sentiment"": ""Neutral"",
+""Explanation"": ""The review mentions 'gangguan' which means 'disturbance' or 'interference', implying that there might be some issue with the connection, but it's not explicitly stated to be negative.""
+}",Network or Connection,Neutral,"The review mentions 'gangguan' which means 'disturbance' or 'interference', implying that there might be some issue with the connection, but it's not explicitly stated to be negative.",
+21d85f74-1386-46c8-8200-49fbde8c0f84,Bilqis Bilqis,2024-07-16 12:10:20,5,sudah lama,"{
+""Topic"": ""Overall"",
+""Sentiment"": ""Neutral"",
+""Explanation"": ""The review is brief and does not mention specific features or issues with the app. It simply states that it has been a while, indicating a general opinion rather than a detailed critique.""
+}",Overall,Neutral,"The review is brief and does not mention specific features or issues with the app. It simply states that it has been a while, indicating a general opinion rather than a detailed critique.",
+a1ce31c2-106e-4f0b-9c57-f60749583356,Saya Saya,2024-07-16 12:07:07,5,Bagus dan transaksi,"{
+""Topic"": ""Overall"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review is brief and only mentions that the app is 'Bagus dan transaksi', which translates to 'Good and transactions'. The tone is overwhelmingly positive, indicating a satisfactory experience with the BRImo mobile banking app.""
+}",Overall,Positive,"The review is brief and only mentions that the app is 'Bagus dan transaksi', which translates to 'Good and transactions'. The tone is overwhelmingly positive, indicating a satisfactory experience with the BRImo mobile banking app.",
+f416ec16-eadb-4200-a982-d50f637dd4dd,Muji Yati,2024-07-16 12:03:31,3,"Saya mencoba buka rekening online ko jawaban dr brimo nya tiap hari, Anda melebihi limit harian coba esok hari begitu jawaban nya terus .","{
+""Topic"": ""Account/Login Issues"",
+""Sentiment"": ""Neutral"",
+""Explanation"": ""The review mentions trying to open a new account online and receiving an 'exceeding daily limit' error message from BRImo, indicating some kind of issue with the account or login process.""
+}",Account/Login Issues,Neutral,"The review mentions trying to open a new account online and receiving an 'exceeding daily limit' error message from BRImo, indicating some kind of issue with the account or login process.",
+73708227-0c7a-4c49-9395-ec944bc11449,Chatya Yudha H,2024-07-16 11:58:38,1,Kenapa daftar akun brimo nya susah sekali sudah saya lengkapkan identitas masih saja bermasalah kurang referal code gimana si cara benerinnya tolong sudah berbulan bulan daftar brimo ngga bisa bisa,"{
+""Topic"": ""Account/Login Issues"",
+""Sentiment"": ""Negative"",
+""Explanation"": ""The reviewer is experiencing difficulties signing up for BRImo account despite providing complete identity information. The mention of 'kurang referal code' and 'ngga bisa' (cannot) suggests frustration with the process.""
+}",Account/Login Issues,Negative,The reviewer is experiencing difficulties signing up for BRImo account despite providing complete identity information. The mention of 'kurang referal code' and 'ngga bisa' (cannot) suggests frustration with the process.,
+9d0eb75f-1792-4b52-bb80-e56cdb1b7098,Pj Ars chrome,2024-07-16 11:57:57,5,"Mataf betulll lah pokonya, semua serba Gampang","{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The reviewer used a colloquial phrase 'Mataf betulll lah pokonya, semua serba Gampang' which roughly translates to 'It's very easy, everything is easy', indicating that they found the app user-friendly and intuitive.""
+}",User Experience,Positive,"The reviewer used a colloquial phrase 'Mataf betulll lah pokonya, semua serba Gampang' which roughly translates to 'It's very easy, everything is easy', indicating that they found the app user-friendly and intuitive.",
+66fd76a9-e192-493b-ad7a-a9348eb43ea5,Wido Simbolon,2024-07-16 11:55:45,5,Ya no,"{
+""Topic"": ""Errors/Bugs"",
+""Sentiment"": ""Negative"",
+""Explanation"": ""The review is a single word 'Ya no' which implies that there is some kind of issue or problem with the app, indicating a negative sentiment.""
+}",Errors/Bugs,Negative,"The review is a single word 'Ya no' which implies that there is some kind of issue or problem with the app, indicating a negative sentiment.",
+fd746fe1-23cd-47cd-b907-5a5e0595198d,Tiga Putri,2024-07-16 11:47:17,5,Mantap,"{
+""Topic"": ""Overall"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review contains a single word 'Mantap' which is an Indonesian expression meaning 'awesome' or 'great', indicating a positive sentiment towards the app.""
+}",Overall,Positive,"The review contains a single word 'Mantap' which is an Indonesian expression meaning 'awesome' or 'great', indicating a positive sentiment towards the app.",
+f01f466f-01de-403b-83e0-47f77295a12f,Heriawan Putra,2024-07-16 11:46:20,4,Kenapah selalu gagal saya bikin akun brimo.,"{
+""Topic"": ""Account/Login Issues"",
+""Sentiment"": ""Negative"",
+""Explanation"": ""The review indicates that the user has repeatedly failed to create an account with BRImo, suggesting issues with the sign-up process or login functionality.""
+}",Account/Login Issues,Negative,"The review indicates that the user has repeatedly failed to create an account with BRImo, suggesting issues with the sign-up process or login functionality.",
+16408057-3d63-4388-8726-31e4c5322e92,Jonny Sit,2024-07-16 11:46:13,5,Sangat membantu👍👍👍,"{
+""Topic"": ""Overall"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review is a simple and enthusiastic endorsement of the app, indicated by the multiple thumbs up emojis. The text does not mention any specific features or issues, but conveys a general sense of satisfaction.""
+}",Overall,Positive,"The review is a simple and enthusiastic endorsement of the app, indicated by the multiple thumbs up emojis. The text does not mention any specific features or issues, but conveys a general sense of satisfaction.",
+e632e145-a461-4661-b0ec-bf8b36d3263d,syai fulan,2024-07-16 11:39:01,3,login menggunakan ussername dan password gabisa padahal sandi udah bener pas diganti sandi baru masih gabisa harus fingerprint,"{
+""Topic"": ""Account/Login Issues"",
+""Sentiment"": ""Negative"",
+""Explanation"": ""The reviewer is unable to log in using their username and password, despite trying a new password. The review also mentions that fingerprint recognition is still not working.""
+}",Account/Login Issues,Negative,"The reviewer is unable to log in using their username and password, despite trying a new password. The review also mentions that fingerprint recognition is still not working.",
+729e131d-38c1-43b6-97e1-37b4a62911fb,sayla Hasanah,2024-07-16 11:38:10,3,Udah 43 kali coba login di brimo tapi tetap aja gagal di verifikasi wajah.padahal sesuai KTP.dan banyak juga ternyata orang mengalami seperti saya ini,"{
+""Topic"": ""Account/Login Issues"",
+""Sentiment"": ""Negative"",
+""Explanation"": ""The reviewer experienced failed login attempts multiple times, with no success despite verifying their identity with an official ID (KTP), which indicates a frustrating user experience.""
+}",Account/Login Issues,Negative,"The reviewer experienced failed login attempts multiple times, with no success despite verifying their identity with an official ID (KTP), which indicates a frustrating user experience.",
+69171ddf-58a7-41ec-8bde-a6a7805287d7,Bisri Sujai,2024-07-16 11:37:47,5,Sesuai dengan kebutuhan,"{
+""Topic"": ""Overall"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review is a simple statement that the app meets one's needs, indicating a positive sentiment and a general satisfaction with the app.""
+}",Overall,Positive,"The review is a simple statement that the app meets one's needs, indicating a positive sentiment and a general satisfaction with the app.",
+373b62e5-a5d5-4c8c-834c-426a0e672160,Vini Tinungki,2024-07-16 11:35:50,5,Sangat bagus dan bisa membantu,"{
+""Topic"": ""Overall"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review text uses positive language, stating 'Sangat bagus dan bisa membantu' which translates to 'Very good and can help'. This indicates a general satisfaction with the app's overall performance.""
+}",Overall,Positive,"The review text uses positive language, stating 'Sangat bagus dan bisa membantu' which translates to 'Very good and can help'. This indicates a general satisfaction with the app's overall performance.",
+9c3edef5-eac0-4410-8a0a-0d1b8f83dea4,Vina Kardina,2024-07-16 11:35:24,5,Menjadikan segalanya lebih mudah,"{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review mentions 'Menjadikan segalanya lebih mudah' which translates to 'Making everything easier', indicating that the reviewer is satisfied with their experience using the BRImo mobile banking app.""
+}",User Experience,Positive,"The review mentions 'Menjadikan segalanya lebih mudah' which translates to 'Making everything easier', indicating that the reviewer is satisfied with their experience using the BRImo mobile banking app.",
+6e12e780-449b-4e54-be02-2ae2377b76f1,Satria sakti Wiradhana,2024-07-16 11:28:12,5,Mantap,"{
+""Topic"": ""Overall"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review text only contains a single word 'Mantap' which is an Indonesian expression meaning 'cool' or 'awesome', indicating a positive sentiment towards the app.""
+}",Overall,Positive,"The review text only contains a single word 'Mantap' which is an Indonesian expression meaning 'cool' or 'awesome', indicating a positive sentiment towards the app.",
+7269c45a-2c07-4bcb-8602-668cfe8d5bcd,Sandi Freda Wardana,2024-07-16 11:26:00,5,Apakah benar ada perubahan tarif di bri mulai bulan depan?,"{
+""Topic"": ""Banking System"",
+""Sentiment"": ""Neutral"",
+""Explanation"": ""The review appears to be asking a question about potential changes in BRI's tariff system, rather than expressing a positive or negative sentiment. The tone is informative and curious, rather than emotional or critical.""
+}",Banking System,Neutral,"The review appears to be asking a question about potential changes in BRI's tariff system, rather than expressing a positive or negative sentiment. The tone is informative and curious, rather than emotional or critical.",
+e65ec6ad-75ad-4219-90b7-b0976ff1e6dc,Yeni,2024-07-16 11:21:37,5,Memuaskan sangat membantu,"{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review text 'Memuaskan sangat membantu' indicates a positive sentiment, suggesting that the reviewer had a satisfying and helpful experience using the BRImo mobile banking app.""
+}",User Experience,Positive,"The review text 'Memuaskan sangat membantu' indicates a positive sentiment, suggesting that the reviewer had a satisfying and helpful experience using the BRImo mobile banking app.",
+b29c7204-ecad-4c77-a0a0-0ad2e803a937,Bor Balap,2024-07-16 11:19:48,5,Sangat membantu,"{
+""Topic"": ""Overall"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review text only contains the phrase 'Sangat membantu', which is Indonesian for 'It's very helpful'. This implies a positive sentiment towards the app, with no specific complaints or issues mentioned.""
+}",Overall,Positive,"The review text only contains the phrase 'Sangat membantu', which is Indonesian for 'It's very helpful'. This implies a positive sentiment towards the app, with no specific complaints or issues mentioned.",
+e1771d36-822d-4a1e-8d57-f6c6fb578c02,Rahmat Fajri,2024-07-16 11:18:44,5,Ok,"{
+""Topic"": ""Overall"",
+""Sentiment"": ""Neutral"",
+""Explanation"": ""The review is very brief and does not mention any specific features or issues with the app. The only word used, 'Ok', suggests a neutral sentiment.""
+}",Overall,Neutral,"The review is very brief and does not mention any specific features or issues with the app. The only word used, 'Ok', suggests a neutral sentiment.",
+1b1494cb-45f9-4537-b5fd-66055d9ec088,Loyal Mobile Legends Forever,2024-07-16 11:17:00,5,Oke,"{
+""Topic"": ""Overall"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review only contains a single word 'Oke' which is an Indonesian slang equivalent to 'okay', indicating a positive sentiment towards the BRImo mobile banking app.""
+}",Overall,Positive,"The review only contains a single word 'Oke' which is an Indonesian slang equivalent to 'okay', indicating a positive sentiment towards the BRImo mobile banking app.",
+b000d459-092c-4345-a6b7-f87ad03c2b66,Deklan Kho,2024-07-16 11:08:50,5,"cepat, mudah, terpercaya","{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review uses Indonesian words 'cepat', 'mudah', and 'terpercaya' which can be translated to 'fast', 'easy', and 'trustworthy'. This indicates that the reviewer had a positive experience with the BRImo mobile banking app, specifically highlighting its usability and reliability.""
+}",User Experience,Positive,"The review uses Indonesian words 'cepat', 'mudah', and 'terpercaya' which can be translated to 'fast', 'easy', and 'trustworthy'. This indicates that the reviewer had a positive experience with the BRImo mobile banking app, specifically highlighting its usability and reliability.",
+f020e01e-1bb7-4d9f-9962-97e4f9aa535b,Suherman Suherman,2024-07-16 11:05:29,5,Mudah dan cepat,"{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The reviewer uses Indonesian phrases 'Mudah dan cepat' which translates to 'Easy and fast', indicating a positive sentiment towards the app's user experience.""
+}",User Experience,Positive,"The reviewer uses Indonesian phrases 'Mudah dan cepat' which translates to 'Easy and fast', indicating a positive sentiment towards the app's user experience.",
+2c892d0a-ad1a-4b35-8136-a2db23ea70a1,ikhsan successyo,2024-07-16 11:04:41,5,Sangat membantu sekali,"{
+""Topic"": ""Overall"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review is short and sweet, simply stating that the app 'Sangat membantu sekali' which translates to 'It's very helpful' in English. The tone is overwhelmingly positive, indicating a high level of satisfaction with the app.""
+}",Overall,Positive,"The review is short and sweet, simply stating that the app 'Sangat membantu sekali' which translates to 'It's very helpful' in English. The tone is overwhelmingly positive, indicating a high level of satisfaction with the app.",
+c4c55064-175a-42db-ab43-ca3955465e79,Noval Ptr,2024-07-16 11:04:16,5,Baik,"{
+""Topic"": ""Overall"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review consists of a single word 'Baik' which is Indonesian for 'Good'. This indicates that the reviewer has a positive overall experience with the BRImo mobile banking app.""
+}",Overall,Positive,The review consists of a single word 'Baik' which is Indonesian for 'Good'. This indicates that the reviewer has a positive overall experience with the BRImo mobile banking app.,
+1f2b0bf9-b663-4775-baa5-f78508f4bf85,Wini Wiliyasari,2024-07-16 11:02:39,5,Sejauh ini lancar...tp blm ada notif buat qris...ada in dong biar kita tau qris yg masuk ke kita lsg,"{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Neutral"",
+""Explanation"": ""The review mentions that the app is smooth so far, but lacks notifications for QRIS transactions. The tone is observational rather than positive or negative.""
+}",User Experience,Neutral,"The review mentions that the app is smooth so far, but lacks notifications for QRIS transactions. The tone is observational rather than positive or negative.",
+a6651753-2b9a-474f-b786-deb31f5237a7,Agus Santoso,2024-07-16 10:58:25,5,ok,"{
+""Topic"": ""Overall"",
+""Sentiment"": ""Neutral"",
+""Explanation"": ""The review only contains a single word 'ok' which is neither praising nor criticizing the app. It suggests a neutral sentiment towards the app.""
+}",Overall,Neutral,The review only contains a single word 'ok' which is neither praising nor criticizing the app. It suggests a neutral sentiment towards the app.,
+e2465949-bd56-4305-ad14-ebdb7d24f0f5,CEMPLY 09,2024-07-16 10:57:48,5,Sangat bermanfaat,"{
+""Topic"": ""Overall"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review text contains only one phrase 'Sangat bermanfaat' which is Indonesian for 'Very useful'. This suggests that the reviewer had a positive experience with the BRImo app overall, without mentioning any specific issues or features.""
+}",Overall,Positive,"The review text contains only one phrase 'Sangat bermanfaat' which is Indonesian for 'Very useful'. This suggests that the reviewer had a positive experience with the BRImo app overall, without mentioning any specific issues or features.",
+7804cbaf-4561-438e-bcf6-3715ae65b414,Ugik Ajah,2024-07-16 10:57:45,5,Aplikasi sangat membantu,"{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The reviewer explicitly states that the app is very helpful, indicating a positive sentiment towards their experience using BRImo mobile banking app.""
+}",User Experience,Positive,"The reviewer explicitly states that the app is very helpful, indicating a positive sentiment towards their experience using BRImo mobile banking app.",
+baeb095e-711b-4762-9082-2327b838d043,Erczin Nita,2024-07-16 10:52:56,5,Mempermuda transaksi 😎,"{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review uses a smiley face emoji and the phrase 'Mempermuda transaksi', which is an Indonesian expression meaning 'making transactions easier'. This suggests that the user has had a positive experience using the BRImo app.""
+}",User Experience,Positive,"The review uses a smiley face emoji and the phrase 'Mempermuda transaksi', which is an Indonesian expression meaning 'making transactions easier'. This suggests that the user has had a positive experience using the BRImo app.",
+10830545-8495-47da-a165-5bac81c8e027,Ashari Nasution,2024-07-16 10:47:26,5,"Selama ini saya berfikir BRI hanya fokus ke kampung2, begitu saya buka rekeningng di BRI, wahhh pelayanan dan fasilitasnya oke, salut sama atm setor/tunainya menyebar, terimakasih BRI...","{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The reviewer expresses surprise and appreciation for the good service and facilities provided by BRImo, indicating a positive user experience.""
+}",User Experience,Positive,"The reviewer expresses surprise and appreciation for the good service and facilities provided by BRImo, indicating a positive user experience.",
+3956cde8-ce05-4ff2-ac38-db797d1dac85,Aldrian Pertama,2024-07-16 10:46:35,5,Mantap,"{
+""Topic"": ""Overall"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review consists of a single word 'Mantap' which is an Indonesian expression meaning 'awesome' or 'great', indicating a very positive sentiment towards the BRImo mobile banking app.""
+}",Overall,Positive,"The review consists of a single word 'Mantap' which is an Indonesian expression meaning 'awesome' or 'great', indicating a very positive sentiment towards the BRImo mobile banking app.",
+88b9b63c-2164-4a72-a7ff-5680b37def0e,Ragil Budianto,2024-07-16 10:45:54,5,"Sangat bagus sekali, puas menggunakan brimo","{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review text indicates that the user is highly satisfied with their experience using the BRImo mobile banking app, as they mention it's 'sangat bagus sekali' (very good) and 'puas' (pleased)""
+}",User Experience,Positive,"The review text indicates that the user is highly satisfied with their experience using the BRImo mobile banking app, as they mention it's 'sangat bagus sekali' (very good) and 'puas' (pleased)",
+c1c079dd-2f3e-4504-8ac8-b4b43d2d5ab2,Almenha Dian,2024-07-16 10:45:41,5,sangat bagus,"{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review text 'sangat bagus' indicates a very positive sentiment towards the mobile banking app, suggesting that the user has had a good experience using the app.""
+}",User Experience,Positive,"The review text 'sangat bagus' indicates a very positive sentiment towards the mobile banking app, suggesting that the user has had a good experience using the app.",
+49235493-e5ab-410b-8a06-be144bb6274c,Kayla Iyla,2024-07-16 10:45:05,5,Sejauh ini sangat bagus dan mudah digunakan.,"{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The reviewer finds the app easy to use and has a positive experience with it so far.""
+}",User Experience,Positive,The reviewer finds the app easy to use and has a positive experience with it so far.,
+74e0b86f-5ef0-44d3-bc9d-9f4d53a59b14,Iwan putra Bugis,2024-07-16 10:40:48,5,Sangat bagus dan mudah,"{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The reviewer uses the phrases 'Sangat bagus' and 'mudah', which are Indonesian for 'very good' and 'easy'. This suggests that they found the mobile banking app to be user-friendly and enjoyable.""
+}",User Experience,Positive,"The reviewer uses the phrases 'Sangat bagus' and 'mudah', which are Indonesian for 'very good' and 'easy'. This suggests that they found the mobile banking app to be user-friendly and enjoyable.",
+620e9585-7ac3-482f-a80c-ae6c675803ef,Mohammad Isro',2024-07-16 10:36:13,5,keren pokoknya,"{
+""Topic"": ""Overall"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The reviewer used the Indonesian phrase 'keren pokoknya', which translates to something like 'it's cool anyway'. The tone is casual and positive, suggesting that the reviewer generally likes using the BRImo mobile banking app.""
+}",Overall,Positive,"The reviewer used the Indonesian phrase 'keren pokoknya', which translates to something like 'it's cool anyway'. The tone is casual and positive, suggesting that the reviewer generally likes using the BRImo mobile banking app.",
+88f66bbc-e6ae-4977-a034-7b8210bcc38e,Khoirul Sormin,2024-07-16 10:36:10,5,Mempermudah transakasi,"{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review mentions that the app 'mempermudah transakasi', which translates to 'facilitates transactions', indicating a positive experience for the user.""
+}",User Experience,Positive,"The review mentions that the app 'mempermudah transakasi', which translates to 'facilitates transactions', indicating a positive experience for the user.",
+9a444204-fc09-440d-b3da-1910b17b48fa,Muhammad Hendrawan,2024-07-16 10:35:12,5,Makin bagus apk nya mantap,"{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The reviewer uses the phrase 'Makin bagus' which means 'Really good' in Indonesian, indicating a positive sentiment towards the app's user experience.""
+}",User Experience,Positive,"The reviewer uses the phrase 'Makin bagus' which means 'Really good' in Indonesian, indicating a positive sentiment towards the app's user experience.",
+1b83adde-e162-428c-8516-4cfa86ecb087,Antopm Risdyanto,2024-07-16 10:34:52,5,Transaksi lebih mudah,"{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The reviewer finds transactions easier with BRImo, indicating a positive user experience.""
+}",User Experience,Positive,"The reviewer finds transactions easier with BRImo, indicating a positive user experience.",
+114ccf71-4211-4c50-9245-400b704d0f1c,Rudy Isharyoko,2024-07-16 10:33:02,5,sangatmemuaskan,"{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The reviewer's use of the phrase 'sangatmemuaskan' suggests that they are highly satisfied with their experience using the BRImo mobile banking app.""
+}",User Experience,Positive,The reviewer's use of the phrase 'sangatmemuaskan' suggests that they are highly satisfied with their experience using the BRImo mobile banking app.,
+3850d438-9c0b-458d-ba36-d9beedc51b85,RJ Urank Lemburr,2024-07-16 10:30:21,5,lebih mudah untuk transaksi apapun,"{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review text 'lebih mudah untuk transaksi apapun' translates to 'it's easier for any transaction', indicating a positive sentiment towards the app's usability and user experience.""
+}",User Experience,Positive,"The review text 'lebih mudah untuk transaksi apapun' translates to 'it's easier for any transaction', indicating a positive sentiment towards the app's usability and user experience.",
+09620366-7f7f-4d71-976d-ab64c0861831,Lisha museb,2024-07-16 10:28:32,5,Oke,"{
+""Topic"": ""Overall"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review consists of only one word 'Oke', which is a casual Indonesian expression that can be translated to 'okay' or 'alright'. Given the brevity and positivity of the expression, it suggests overall satisfaction with the app.""
+}",Overall,Positive,"The review consists of only one word 'Oke', which is a casual Indonesian expression that can be translated to 'okay' or 'alright'. Given the brevity and positivity of the expression, it suggests overall satisfaction with the app.",
+2f14df8f-ea70-46d2-a749-d5b9d1d0aa99,Johan,2024-07-16 10:21:19,5,semakin baik,"{
+""Topic"": ""Overall"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review is a simple phrase 'semakin baik' which means 'getting better' or 'improving'. The tone and language suggest that the reviewer is generally satisfied with the app.""
+}",Overall,Positive,The review is a simple phrase 'semakin baik' which means 'getting better' or 'improving'. The tone and language suggest that the reviewer is generally satisfied with the app.,
+13535f8c-3c21-4688-bd45-e9325dd2431b,multi sukrapi,2024-07-16 10:20:14,5,Mudah digunakan,"{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review text 'Mudah digunakan' translates to 'Easy to use', indicating that the reviewer found the BRImo mobile banking app user-friendly and intuitive.""
+}",User Experience,Positive,"The review text 'Mudah digunakan' translates to 'Easy to use', indicating that the reviewer found the BRImo mobile banking app user-friendly and intuitive.",
+7eeca2af-6da6-43a3-92cc-da70ec7e3789,Miftakul Rahman,2024-07-16 10:16:36,5,Cepat buat keperluan mendadak,"{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The reviewer praised the app's speed and ability to handle urgent needs, indicating a positive user experience.""
+}",User Experience,Positive,"The reviewer praised the app's speed and ability to handle urgent needs, indicating a positive user experience.",
+0e78fb59-5a9a-47e5-a45b-a08bf823e519,Kenedy Kenoy,2024-07-16 10:04:23,4,Transaksi mudah. Gk ribet kesana kemari.,"{
+  ""Topic"": ""User Experience"",
+  ""Sentiment"": ""Positive"",
+  ""Explanation"": ""The review mentions that transactions are easy and not complicated, indicating a positive user experience.""
+}",User Experience,Positive,"The review mentions that transactions are easy and not complicated, indicating a positive user experience.",
+9d94c0a8-482c-4f59-8905-afc52689a21f,R Syafrida,2024-07-16 10:03:59,5,Indonesia jaya,"{
+""Topic"": ""Overall"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review contains only the phrase 'Indonesia jaya', which is a common expression of positivity and national pride. It does not mention any specific issues or features, indicating an overall positive sentiment towards the BRImo mobile banking app.""
+}",Overall,Positive,"The review contains only the phrase 'Indonesia jaya', which is a common expression of positivity and national pride. It does not mention any specific issues or features, indicating an overall positive sentiment towards the BRImo mobile banking app.",
+0f3cdf32-66ea-44c0-aef6-34e4590b2bbe,Indra Lesmana,2024-07-16 09:57:57,5,Simple dan gampang,"{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review uses simple language and mentions 'gampang' which means easy, indicating that the user found the app's user experience to be straightforward and effortless.""
+}",User Experience,Positive,"The review uses simple language and mentions 'gampang' which means easy, indicating that the user found the app's user experience to be straightforward and effortless.",
+51d7cd86-6170-4a1d-8834-0ee112b12b50,Darma Store,2024-07-16 09:57:37,1,"Mending pindah ke bank lain aja lah, notifikasi aja harus ada potongan biaya. PAYAH PEMAKSAAN SEKALI, NYARI KEUNTUNGAN NGGAK HARUS KAYAK GINI KALI, MENDING PINDAHIN UANG KE BANK LAIN!!!!!!!!!!!😠😠😠😠😠😠😠😠 MAAF SY TIDAK AKAN MEMBERIKAN BINTANG 5, KECUALI ANDA HAPUSKAN BIAYA PENDEBETAN NOTIFIKASI, INI NAMA NY PEMAKSAAN😠😠😠","{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Negative"",
+""Explanation"": ""The reviewer is frustrated with the app's notification system, specifically the charges for notifications. They express their dissatisfaction and threaten to switch banks.""
+}",User Experience,Negative,"The reviewer is frustrated with the app's notification system, specifically the charges for notifications. They express their dissatisfaction and threaten to switch banks.",
+5f668acf-075f-47f3-8f4e-cc5aca880a7a,Zulia 123,2024-07-16 09:51:58,5,Sangat membantu Mudah cepat dimanapun kapan pun,"{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review mentions that the app is 'sangat membantu' which translates to 'very helpful', indicating a positive user experience. The phrases 'mudah cepat dimanapun kapan pun' also convey ease of use and flexibility, further reinforcing a positive sentiment.""
+}",User Experience,Positive,"The review mentions that the app is 'sangat membantu' which translates to 'very helpful', indicating a positive user experience. The phrases 'mudah cepat dimanapun kapan pun' also convey ease of use and flexibility, further reinforcing a positive sentiment.",
+909a6522-3fb2-44b0-9c27-fdb58d64e5b5,Izhar Agrifina,2024-07-16 09:49:56,4,Aman stabil.,"{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The reviewer uses the phrase 'Aman stabil' which can be translated to 'Stable and Safe', indicating that they have a positive experience with the BRImo mobile banking app, specifically regarding its reliability.""
+}",User Experience,Positive,"The reviewer uses the phrase 'Aman stabil' which can be translated to 'Stable and Safe', indicating that they have a positive experience with the BRImo mobile banking app, specifically regarding its reliability.",
+eddb784d-5594-4517-99d3-d8cad34bf659,Ali Juhana,2024-07-16 09:49:49,5,"Bagus, memudahkan aktivitas tnp keluar rmh","{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review mentions that the app makes it easy for users to activate activities and go home, indicating a positive user experience.""
+}",User Experience,Positive,"The review mentions that the app makes it easy for users to activate activities and go home, indicating a positive user experience.",
+42a89c70-74d9-4dae-aca7-3c87404e58b6,Junaidi Jujun,2024-07-16 09:43:20,5,Sangat cocok untuk pengiriman,"{
+""Topic"": ""Overall"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review text uses the phrase 'Sangat cocok untuk pengiriman' which translates to 'Very suitable for sending'. This suggests that the reviewer is generally pleased with their experience using the BRImo app.""
+}",Overall,Positive,The review text uses the phrase 'Sangat cocok untuk pengiriman' which translates to 'Very suitable for sending'. This suggests that the reviewer is generally pleased with their experience using the BRImo app.,
+7d8ce366-b3d4-4373-a66c-80b9d3f111e3,Ega Pati,2024-07-16 09:42:10,5,Jos,"{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review does not mention any specific issues with the app's user experience, and only mentions 'Thought 1', indicating a positive sentiment towards the app.""
+}",User Experience,Positive,"The review does not mention any specific issues with the app's user experience, and only mentions 'Thought 1', indicating a positive sentiment towards the app.",
+41256003-d98d-4977-bee7-0031009e32bb,Inara bungsu,2024-07-16 09:38:32,5,Sangat terbantu dan mudah dlm penggunaan aplikasinya,"{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review states that the app is 'sangat terbantu dan mudah' which translates to 'very helpful and easy to use', indicating a positive sentiment towards the user experience.""
+}",User Experience,Positive,"The review states that the app is 'sangat terbantu dan mudah' which translates to 'very helpful and easy to use', indicating a positive sentiment towards the user experience.",
+a498585a-4aca-46ba-adeb-21ca350a862a,SARMIN,2024-07-16 09:33:12,1,saya sdh donwlod aplikasi brimo ini tapi msh aja gak bisa kebuka saya di blokir lgi tanpa ada alasan yg gk jelas aplikasi membingungkan user name benar paswod benar pin juga benar tapi msh aja gak bisa login/ masuk.,"Here is my answer:
+
+[{""Topic"": ""Account/Login Issues"", ""Sentiment"": ""Negative"", ""Explanation"": ""The reviewer was unable to log in to the app despite having correct username, password, and PIN, indicating frustration with login issues.""}]",,,,
+6a531e3e-801d-4b19-8efb-f6ccf86f9a5a,Bang Saiun Saiun,2024-07-16 09:30:19,5,Memudahkan segala transaksi,"{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review mentions that the app makes all transactions easy, indicating a positive sentiment towards the user experience.""
+}",User Experience,Positive,"The review mentions that the app makes all transactions easy, indicating a positive sentiment towards the user experience.",
+620159f2-6ac5-42dd-aead-be52b3ad1fe7,Setya Tya,2024-07-16 09:29:20,5,Sangat terbantu dengan aplikasi ini,"{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The reviewer expresses gratitude and satisfaction with the app's functionality, indicating a positive sentiment towards their experience using BRImo.""
+}",User Experience,Positive,"The reviewer expresses gratitude and satisfaction with the app's functionality, indicating a positive sentiment towards their experience using BRImo.",
+1a9591b6-7617-472e-87ee-6cb62434af75,chipay Id,2024-07-16 09:19:08,5,Tingkatkan lg agar bisa d semua pembayaran online,"{
+""Topic"": ""Banking System"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The reviewer suggests improving online payment capabilities, indicating a positive sentiment towards the app's banking system.""
+}",Banking System,Positive,"The reviewer suggests improving online payment capabilities, indicating a positive sentiment towards the app's banking system.",
+25f884ae-d8ca-45d7-8d4b-c5a9115fac6a,Aprilia Putry,2024-07-16 09:07:56,5,Aplikasi brimo sangat membatu sya. Terimakasih brimo.😘😘😘,"{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The reviewer expresses gratitude and satisfaction with the BRImo app, using emoticons 😘 to convey their enthusiasm.""
+}",User Experience,Positive,"The reviewer expresses gratitude and satisfaction with the BRImo app, using emoticons 😘 to convey their enthusiasm.",
+a538c6a7-85c2-42f1-88f8-f137e70d3406,Denayla nayla,2024-07-16 09:06:12,5,belanja jd mudah.. bayar tinggal klik aja,"{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review mentions that shopping (belanja) has become easy and payment is as simple as clicking (bayar tinggal klik aja), indicating a positive experience with the BRImo mobile banking app.""
+}",User Experience,Positive,"The review mentions that shopping (belanja) has become easy and payment is as simple as clicking (bayar tinggal klik aja), indicating a positive experience with the BRImo mobile banking app.",
+bb521b2e-d18a-46da-b4e4-2872774b619c,APR,2024-07-16 09:02:11,2,"Scan QRIS lama dan sering eror. Masih sama lamanya, sekarang malah sering tidak menemukan QR-nya","{
+""Topic"": ""Errors/Bugs"",
+""Sentiment"": ""Negative"",
+""Explanation"": ""The reviewer is complaining about frequent errors when scanning QRIS codes, with a tone that suggests frustration and disappointment.""
+}",Errors/Bugs,Negative,"The reviewer is complaining about frequent errors when scanning QRIS codes, with a tone that suggests frustration and disappointment.",
+9bb5bd82-3c66-4cf7-86d3-cfca6d7efa43,Hendro Waluyo,2024-07-16 08:55:23,4,"Bagus,, cuman minta tolong,, untuk penarikan saldo kalau bisa lebih dari 1jt,, biar bisa mencukupi kebutuhan penarikan lebih dari 1jt tidak bolak balik narik","{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The reviewer suggests an improvement to the app's functionality, specifically for withdrawals above IDR 1 million, which indicates a positive sentiment towards the overall user experience. The tone is also polite and courteous, with phrases like 'Bagus' (good) and 'tolong' (please), further supporting a positive sentiment.""
+}",User Experience,Positive,"The reviewer suggests an improvement to the app's functionality, specifically for withdrawals above IDR 1 million, which indicates a positive sentiment towards the overall user experience. The tone is also polite and courteous, with phrases like 'Bagus' (good) and 'tolong' (please), further supporting a positive sentiment.",
+17510d07-5602-4721-8f40-d97c6cdd7c7e,Syahar AB,2024-07-16 08:53:58,5,"Saya sengaja memberikan 5 bintang agar pihak developer dan teman² lihat pesan saya dari pengalaman saya menggunakan apk BRImo ini..yang terhormat pihak BRI kenapa notif aja harus kami yang bayar coba jelaskan ke saya,, belakang ini saya selalu cek pengeluaran lah kok selalu bayar kalau ada notifikasi.. notif apapun itu harus bayar 2 notifikasi itu 1.500 berarti 1 notifikasi 750.. saya cek mutasi saya di tgl 14 Juni seharga 11.250 15 notifikasi apakah teman² juga demikian?","{
+""Topic"": ""Banking System"",
+""Sentiment"": ""Negative"",
+""Explanation"": ""The reviewer is complaining about the need to pay for every notification they receive from BRImo, which seems to be a misunderstanding or frustration with the app's functionality.""
+}",Banking System,Negative,"The reviewer is complaining about the need to pay for every notification they receive from BRImo, which seems to be a misunderstanding or frustration with the app's functionality.",
+026e4f55-e280-4bf5-ab02-896a2ceb7ddf,AGUS HRD,2024-07-16 08:51:23,5,Brimo jooos tenan,"{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review contains a phrase 'jooos tenan' which is likely an expression of satisfaction or happiness, indicating that the user had a positive experience using the app.""
+}",User Experience,Positive,"The review contains a phrase 'jooos tenan' which is likely an expression of satisfaction or happiness, indicating that the user had a positive experience using the app.",
+ea1d3467-1b81-41d5-b43d-08733614bdb0,Ngrambe Ngawi,2024-07-16 08:49:43,5,Sangat membantu,"{
+""Topic"": ""User Experience"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review's single phrase 'Sangat membantu' translates to 'Very helpful', indicating a positive sentiment towards the mobile banking app's user experience.""
+}",User Experience,Positive,"The review's single phrase 'Sangat membantu' translates to 'Very helpful', indicating a positive sentiment towards the mobile banking app's user experience.",
+747b6274-2cea-40dd-aa7d-49436a53b6d4,Hilman Maulana,2024-07-16 08:49:30,5,Enak dan cepat,"{
+""Topic"": ""Overall"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review is a simple phrase 'Enak dan cepat' which translates to 'Nice and Fast', indicating that the reviewer has a positive overall experience with the BRImo mobile banking app.""
+}",Overall,Positive,"The review is a simple phrase 'Enak dan cepat' which translates to 'Nice and Fast', indicating that the reviewer has a positive overall experience with the BRImo mobile banking app.",
+5c4f3db8-eac4-40f2-97d8-691c09e9e7e6,Gugun Gunawan,2024-07-16 08:38:34,5,Sangat terbantu,"{
+""Topic"": ""Overall"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review text uses the Indonesian phrase 'Sangat terbantu' which translates to 'Very helped'. This suggests that the reviewer had a positive overall experience with the BRImo mobile banking app, but does not provide specific details about the features or functionality of the app.""
+}",Overall,Positive,"The review text uses the Indonesian phrase 'Sangat terbantu' which translates to 'Very helped'. This suggests that the reviewer had a positive overall experience with the BRImo mobile banking app, but does not provide specific details about the features or functionality of the app.",
+418e7c41-ff79-4d66-8726-383bbee5caca,Putra Buwono,2024-07-16 08:37:16,5,Bagus,"{
+""Topic"": ""Overall"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The reviewer's single-word review 'Bagus' indicates a positive sentiment, implying that they are generally satisfied with their experience using the BRImo mobile banking app.""
+}",Overall,Positive,"The reviewer's single-word review 'Bagus' indicates a positive sentiment, implying that they are generally satisfied with their experience using the BRImo mobile banking app.",
+c0ad067c-3bbc-49e4-b201-9194dc3a5d9c,WAENI ANISA,2024-07-16 08:37:16,5,Trimakasih Brimo,"{
+""Topic"": ""Overall"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review is a simple expression of gratitude towards BRImo, indicating overall satisfaction with the mobile banking app.""
+}",Overall,Positive,"The review is a simple expression of gratitude towards BRImo, indicating overall satisfaction with the mobile banking app.",
+371af359-cef0-4028-b581-4d0de979cf78,Asilah Sholehah,2024-07-16 08:34:47,5,Brimo ok,"{
+""Topic"": ""Overall"",
+""Sentiment"": ""Neutral"",
+""Explanation"": ""The review is very brief and doesn't mention any specific issue or feature of the app. The reviewer simply states that BRimo is 'ok', which suggests a neutral sentiment.""
+}",Overall,Neutral,"The review is very brief and doesn't mention any specific issue or feature of the app. The reviewer simply states that BRimo is 'ok', which suggests a neutral sentiment.",
+4eb8083c-0db2-49eb-8804-71a39978e902,panliraipal raipal,2024-07-16 08:33:23,5,Membantu,"{
+""Topic"": ""Overall"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review contains a single word 'Membantu' which is Indonesian for 'helpful', indicating that the reviewer found their experience with BRImo overall positive.""
+}",Overall,Positive,"The review contains a single word 'Membantu' which is Indonesian for 'helpful', indicating that the reviewer found their experience with BRImo overall positive.",
+bef99b37-ea79-42d1-979e-79c51faf6e80,Rifatun Demak,2024-07-16 08:28:39,5,Sangat membantu,"{
+""Topic"": ""Overall"",
+""Sentiment"": ""Positive"",
+""Explanation"": ""The review text 'Sangat membantu' translates to 'Very helpful', indicating a positive sentiment overall.""
+}",Overall,Positive,"The review text 'Sangat membantu' translates to 'Very helpful', indicating a positive sentiment overall.",
