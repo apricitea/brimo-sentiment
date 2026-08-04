@@ -2,7 +2,7 @@
 name = "brimo-sentiment"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Alvin C. Nataputra <apeirodox@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
@@ -21,6 +21,7 @@ python-dotenv = "^1.0.1"
 
 [tool.poetry.group.dev.dependencies]
 ipykernel = "^6.29.5"
+pytest = "^8.3.4"
 
 [build-system]
 requires = ["poetry-core"]
