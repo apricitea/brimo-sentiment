@@ -55,3 +55,15 @@ poetry run pytest
 Covers the LLM-response parsing logic (`brimo_sentiment/parsing.py`) — the
 rest of the pipeline is notebook-driven and depends on live services
 (Ollama, Google Play, Twitter), so it isn't exercised in CI.
+
+---
+
+## Data provenance
+
+`brimo_sentiment/results.csv` contains review text for the BRImo Android app
+(`id.co.bri.brimo`) collected with `google-play-scraper`, plus a secondary set of tweet
+threads collected with a Playwright scraper (`scrape-twitter.ipynb`).
+
+The review and post text is third-party user-generated content. It is **not our work**, no
+licence is asserted over it, and it is included for research reproducibility only. The
+scrapers, the extraction pipeline and the analysis are our own work (MIT).
